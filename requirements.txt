@@ -1,0 +1,9 @@
+ffmpeg-static
+discord.js
+google-tts-api
+discord-player
+@discord-player/extractor
+discord-voip
+axios
+ytdl-core
+@discordjs/opus
